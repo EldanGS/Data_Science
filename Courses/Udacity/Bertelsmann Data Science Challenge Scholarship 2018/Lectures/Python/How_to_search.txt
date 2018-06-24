@@ -1,0 +1,9 @@
+1. Try using "Python" or the name of the library you're using as the first word of your query. This tells the search engine to prioritize results that are explicitly related to the tools you're using.
+
+2. Writing a good search query can take multiple attempts. If you don't find helpful results on your first attempt, try again.
+
+3. Try using keywords found on the pages you found in your initial search to direct the search engine to better resources in the subsequent search.
+
+4. Copy and paste error messages to use as search terms. This will lead you to explanations of the error and potential causes. An error message might include references to specific line numbers of code that you wrote. Only include the part of the error message that comes before this in your search.
+
+5. If you can't find an answer to your question, ask it yourself! Communities like StackOverflow have etiquette rules you must learn if you want to participate, but don't let this stop you from using these resources.
