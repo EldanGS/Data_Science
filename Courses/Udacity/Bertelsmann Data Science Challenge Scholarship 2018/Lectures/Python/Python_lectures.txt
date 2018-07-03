@@ -1,0 +1,59 @@
+### Python3 lectures online ###
+
+# Arithmetic Operators
+https://www.youtube.com/watch?v=M8TIOK2P2yw
+
+# Variables 1, 2
+1. https://www.youtube.com/watch?v=7pxpUot4x0w
+
+2. https://www.youtube.com/watch?v=4IJqbP8vi6A
+
+# Assignment Operators
+https://www.youtube.com/watch?v=p_qfzL-x3Cs
+
+# Integers and Floats
+https://www.youtube.com/watch?v=MiJ1vfWp-Ts
+
+# White spaces
+https://www.youtube.com/watch?v=UxkIwcOczQQ
+
+# Booleans Comparison Operators AndLogical Operators
+https://www.youtube.com/watch?v=iNNsUJIDtVU
+
+# Strings
+https://www.youtube.com/watch?v=ySZDrs-nNqg
+
+# Type And Type Conversion V3
+https://www.youtube.com/watch?v=yN6Fam_vZrU
+
+# String Methods
+https://www.youtube.com/watch?v=Bv7CAxVOONs
+
+# Lists And Membership Operators V2
+https://www.youtube.com/watch?v=ZNVntttuAPQ
+
+# Lists And Membership Operators V2
+https://www.youtube.com/watch?v=08T46bErUMA
+
+#  Lists And Membership Operators II
+https://www.youtube.com/watch?v=mXQsO--l20Y
+
+# Lists Methods 1, 2
+1. https://www.youtube.com/watch?v=TeszRDH_OeY
+
+2. https://www.youtube.com/watch?v=KdYXN3Y2QpY
+
+# Tuples
+https://www.youtube.com/watch?v=QPmQI9No0ls
+
+# Sets
+https://www.youtube.com/watch?v=Lin_VtmEU0M
+
+# Dictionaries And Identiy Operators
+https://www.youtube.com/watch?v=fqux3GUh940
+
+# Compound Data Structures
+https://www.youtube.com/watch?v=YXzIlkB7Mn8
+
+
+# PRACTICE: https://www.hackerrank.com/domains/python
