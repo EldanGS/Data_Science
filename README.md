@@ -1,1 +1,17 @@
 # Machine Learning projects with Python
+
+## Yessenov Data Lab [YDL](http://yessenovfoundation.org/en/o-fonde/programmyi/resursyi/razvitie-it-kompetentsiy/yessenov-data-lab/)
+Implementation of different Machine Learning and Deep Learning [algorithms](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab)
+- [Intro to Python](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%201)
+- [Supervised Learning](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%202)
+- [Unsupervised Learning](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%203)
+  - [KNN, DecisionTree, Random Forest](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%203/Day1)
+  - [Boosting](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%203/Day2)
+  - [PCA and Clustering](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%203/Day3)
+  - [SVM](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%203/Day4)
+- [Deep Learning](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%204)
+  - [NN](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%204/Day1)
+  - [Keras & Tensorflow](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%204/Day2/laboratory)
+  - [CNN](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%204/Day3/laboratory)
+- [Computer Vision](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%205)
+- [Pre-product](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%206)
