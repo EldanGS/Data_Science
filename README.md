@@ -15,3 +15,13 @@ Implementation of different Machine Learning and Deep Learning [algorithms](http
   - [CNN](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%204/Day3/laboratory)
 - [Computer Vision](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%205)
 - [Pre-product](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab/Week%206)
+
+## Bertelsmann Data Science Scholarship Program [Udacity](https://www.udacity.com/bertelsmann-data-scholarships)
+This scholarship is open to Bertelsmann employees as well as the general public interested in Data Science. Applicants 18 years of age or older are invited to apply. We’ll review all applications and select 15,000 recipients to participate in the Scholarship Challenge Course. This is where your learning begins! You’ll spend 3 months learning all about the statistics you need to succeed in the world of data. Top students from the initial Challenge Course will be selected for a full Nanodegree program.
+  - [Lectures](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Lectures)
+    - [SQL](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Lectures/SQL)
+    - [Python](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Lectures/Python)
+    - [Math statistics](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Lectures/Math%20Statistic)
+  - [Tasks](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Tasks)
+    - [SQL](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Tasks/SQL)
+    - [Python](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Tasks/Python)
