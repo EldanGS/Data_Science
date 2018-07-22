@@ -25,3 +25,4 @@ This scholarship is open to Bertelsmann employees as well as the general public 
   - [Tasks](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Tasks)
     - [SQL](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Tasks/SQL)
     - [Python](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Tasks/Python)
+  - [Final project](https://github.com/EldanGS/Data_Science/tree/master/Courses/Udacity/Bertelsmann%20Data%20Science%20Challenge%20Scholarship%202018/Project)
