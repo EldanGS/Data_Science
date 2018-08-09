@@ -1,4 +1,4 @@
-# Machine Learning projects with Python
+# Data Science & Machine Learning courses
 
 ## Yessenov Data Lab [YDL](http://yessenovfoundation.org/en/o-fonde/programmyi/resursyi/razvitie-it-kompetentsiy/yessenov-data-lab/)
 Implementation of different Machine Learning and Deep Learning [algorithms](https://github.com/EldanGS/Data_Science/tree/master/Yessenov%20Data%20Lab)
